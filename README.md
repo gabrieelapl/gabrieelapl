@@ -1,5 +1,5 @@
 ### Hello, world! 👋
-📚Cursando técnico em Desenvolvimento de Sistemas
+📚 Cursando técnico em Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/gabrieelapl">
