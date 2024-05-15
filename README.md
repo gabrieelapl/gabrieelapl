@@ -1,12 +1,13 @@
-### Hello, world! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EDA011&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile!)](https://git.io/typing-svg)
+
 
 ##
 
 
 <div align="center">
   <a href="https://github.com/gabrieelapl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieelapl&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelapl&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieelapl&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelapl&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
   ##
