@@ -9,7 +9,7 @@ Olá! Meu nome é Gabriela e sou estudante de **Desenvolvimento de Software Mult
 * 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC
 * 🛠️ Técnica em Desenvolvimento de Sistemas pela ETEC
 * 🚀 Em constante aprendizado e construção de projetos
-* 🔗 Sempre buscando colaborar e evoluir como desenvolvedor
+* 🔗 Sempre buscando colaborar e evoluir como desenvolvedora
 
 
 ##
