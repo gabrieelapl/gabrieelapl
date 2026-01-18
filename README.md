@@ -2,7 +2,7 @@
 
 
 ##
-Olá! Meu nome é Gabriela 😊
+Olá! Meu nome é Gabriela 😊 <br>
 Atualmente curso Desenvolvimento de Software Multiplataforma na FATEC e concluí o curso de Desenvolvimento de Sistemas na ETEC, onde tive meu primeiro contato mais aprofundado com a programação.
 
 <br>
