@@ -2,7 +2,8 @@
 
 
 ##
-Olá! Meu nome é Gabriela e sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC**. Iniciei meus estudos na área da tecnologia na ETEC aos 15 anos e, desde então, sou apaixonada por desenvolvimento de sistemas, inovação e tecnologia.
+Olá! Meu nome é Gabriela 😊
+Atualmente curso Desenvolvimento de Software Multiplataforma na FATEC e concluí o curso de Desenvolvimento de Sistemas na ETEC, onde tive meu primeiro contato mais aprofundado com a programação.
 
 <br>
 
