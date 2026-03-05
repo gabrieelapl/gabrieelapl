@@ -2,7 +2,7 @@
 
 
 ##
-Olá, meu nome é Gabriela! <br>
+Olá, meu nome é Gabriela! 👋🏻<br>
 Tenho 19 anos e sou estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec. <br>
 Concluí o ensino técnico em Desenvolvimento de Sistemas pela ETEC, onde comecei minha trajetória na área de tecnologia. <br>
 Atualmente busco aprimorar meus conhecimentos em programação, sempre procurando aprender novas tecnologias e evoluir na área.
