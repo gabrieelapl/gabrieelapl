@@ -2,7 +2,7 @@
 
 
 ##
-<h2>👩🏻‍💻 Sobre mim</h2>
+<h3>👩🏻‍💻 Sobre mim</h3>
 <p>Tenho 19 anos e sou estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec.
 Concluí o ensino técnico em Desenvolvimento de Sistemas pela ETEC, onde comecei minha trajetória na área de tecnologia.</p>
 <p>Atualmente, busco aprimorar meus conhecimentos em programação, sempre procurando aprender novas tecnologias e evoluir na área! 🚀</p>
