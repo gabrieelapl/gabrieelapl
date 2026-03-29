@@ -9,15 +9,6 @@ Concluí o ensino técnico em Desenvolvimento de Sistemas pela ETEC, onde comece
 
 <br>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieelapl&show_icons=true&theme=radical&hide_border=true&title_color=ff97cf&icon_color=ff97cf"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelapl&layout=compact&theme=radical&hide_border=true&title_color=ff97cf"/>
-</div>
-
-<br>
-
 <h3>📫 Contato</h3>
   
 <div> 
