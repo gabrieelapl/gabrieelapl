@@ -1,20 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF97Cf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF97Cf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriela!+👋🏻)](https://git.io/typing-svg)
 
 
 ##
-Olá, meu nome é Gabriela! 👋🏻<br>
 Tenho 19 anos e sou estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec. <br>
 Concluí o ensino técnico em Desenvolvimento de Sistemas pela ETEC, onde comecei minha trajetória na área de tecnologia. <br>
 Atualmente busco aprimorar meus conhecimentos em programação, sempre procurando aprender novas tecnologias e evoluir na área.
 
 ##
-
-
-<div align="center">
-  <a href="https://github.com/gabrieelapl">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrieelapl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieelapl&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <br>
   
