@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF97CF&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF97Cf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriela!+👋🏻)](https://git.io/typing-svg)
 
 
@@ -43,3 +45,5 @@ Em 2024, concluí o ensino técnico em Desenvolvimento de Sistemas pela ETEC, on
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF97CF&height=120&section=footer"/>
