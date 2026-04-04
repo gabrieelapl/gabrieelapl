@@ -24,6 +24,8 @@ Em 2024, concluí o ensino técnico em Desenvolvimento de Sistemas pela ETEC, on
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
 <br>
